@@ -34,15 +34,15 @@ function (actualAge){
 ```
 
 | Input | Output |
-| ----- | ------ |
-|       |        | 
-|       |        | 
-|       |        | 
+| ----- | ------------------------------ |
+|   3   |   Cat years:28 dogYears: 29    | 
+|   9   |   Cat years:52 dogYears: 59    | 
+|   18  |   Cat years:88 dogYears: 104   | 
 
 <table>
   <tr>
     <th>What does this program do?</th>
-    <td></td>
+    <td> This program takes an inpout of a human age and produces the output of a calculated corresponding dog and cat age will be; Using the calculation (actualAge-2)*4+24 for cats and (actualAge-2)*5+24 for dogs, where "actualAge" is the value of human years.</td>
   </tr>
 </table>
 
