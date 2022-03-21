@@ -35,9 +35,9 @@ function (actualAge){
 
 | Input | Output |
 | ----- | ------------------------------------------------ |
-|   3   |  { humanYears: 3, catYears: 28, dogYears: 29 }   | 
-|   9   |  { humanYears: 9, Cat years:52, dogYears: 59 }   | 
-|   18  |  { humanYears: 18, Cat years:88, dogYears: 104 } | 
+|   3   |  { humanYears: 3, catYears: 28, dogYears: 29 }  | 
+|   9   |  { humanYears: 9, catYears:52, dogYears: 59 }   | 
+|   18  |  { humanYears: 18, catYears:88, dogYears: 104 } | 
 
 <table>
   <tr>
